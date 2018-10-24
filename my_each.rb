@@ -4,5 +4,5 @@ while counter < arg.size
   yield (arg[counter])
   counter += 1
 end
-counter 
+arg 
 end
